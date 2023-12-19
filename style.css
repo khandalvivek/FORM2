@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(26, 26, 53);
+}
+form{
+    background-color: white;
+    border-radius: 5px;
+}
+.signup{
+    width: 30%;
+    float: left;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: -10px;
+}
+.login{
+    width: 30%;
+    float: left;
+    margin-top: 10%;
+}
+h1,p{
+    text-align: center;
+}
+h1{
+    padding-top: 20px;
+}
+p,label{
+    font-size: 20px;
+}
+label{
+    padding-left: 18px;
+}
+.inp_box{
+    font-size: 20px;
+    margin:  0px 4%;
+    text-decoration: none;
+    width: 90%;
+    border-radius: 5px;
+}
+.sub_btn{
+    color: white;
+    font-size: 20px;
+    margin:  0px 4%;
+    border: none;
+    padding: 5px 0px;
+    border-radius: 5px;
+    width: 92%;
+    background-color: rgb(0, 114, 61);
+}
+.form_con{
+    margin-top: -10px;
+
+}
